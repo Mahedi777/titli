@@ -1,0 +1,84 @@
+*{margin:0;padding:0}
+body{margin:0;padding:0;list-style:none;font-family:arial;font-size:14px;line-height:24px;margin:0px auto;}
+.fix{overflow:hidden;}
+.mainbody{width:1024px}
+.head{background:#3A5795;height:80px;width:1024px;}
+.left{float:left;margin-left:30px;width:300px;}
+.left h1{color:#fff;font-size: 37px;
+margin-top: 35px;}
+.right{float:right;margin-right:20px;width:413px;
+}
+.fattah{float:left;margin-right:10px}
+.fattah h5{color:#fff}
+.fattah a{color:#ddd;font-size:12px;}
+.shakil{float:right;margin-top:-48px;}
+.parvez h5{color:#fff}
+.parvez a{color:#ddd;font-size:12px}
+.parvez  a{color:#ddd;text-decoration:none}
+.parvez  a:hover{color:#ddd;text-decoration:underline}
+
+input{padding:2px;}
+.shakil input{color:#fff;background:#3A5795;padding:2.5px;font-size:bold;}
+.shakil{margin-left:10px}
+.main{
+	margin-top:52px;
+	background:url(img/HTML_CSS_project.png);
+}
+.sidebar{}
+.maincontent input{padding:10px;margin-right:5px;}
+.maincontent h1{font-size: 35;
+margin-bottom: 14px;}
+.maincontent h4{margin-bottom:10px;font-size:17px;
+font-weight:normal;}
+.email{margin-top:20px;}
+.email input{width:370px;}
+.pain a{ text-decoration:none;font-size:13px;}
+.pain a:hover{ text-decoration:underline;}
+.pain{margin-top:10px;}
+.pain input{width:42px;margin-top:10px}
+.love input{font-size:30px;}
+.night a {color:blue;text-decoration:none;}
+.page{margin-top:10px;}
+.my_btn{display:inline-block;
+		font-size:15px;
+		font-weight:700;
+		text-decoration:none;
+		border:1px solid #6FAD5B;
+		padding:5px 55px;
+		color:#fff;
+		background:#6FAD5B;
+		margin-top:10px;
+		border-radius:3px;
+		}
+.my_btn:hover{background-color:#649D50;}
+.sazzad{border:1px solid #649D50;overflow:hidden;margin-top:15px;}
+.purity{margin-bottom:24px;margin-top:15px;}
+.purity  a{text-decoration:none;}
+.purity  a:hover{text-decoration:underline;}
+.last{margin-top:6px;margin-left:10px;}
+.last ul li{display:inline;float:left;font-size:17px;
+font-weight:normal;color:blue;padding:5px;}
+.last ul li a{text-decoration:none;}
+.last ul li a:hover{text-decoration:underline;}
+.style{background:#ddd;height:18px;}
+.line{border:1px solid #CCCCCC;}
+.last_footer{width:1024px;}
+.last_footer ul li a{text-decoration:none;font-weight:normal;}
+.last_footer ul li {font-size:17px;}
+.last_footer ul li a:hover{text-decoration:underline;}
+.firoz{width:80px;float:left;margin-left:14px;font-size:15px;}
+.farhan{width:80px;float:left;font-size:15px;}
+.xotil{width:80px;float:left;font-size:15px;}
+.real{width:80px;float:left;font-size:15px;}
+.badge{width:80px;float:left;font-size:15px;}
+.people{width:80px;float:left;font-size:15px;}
+.pages{width:80px;float:left;font-size:15px;}
+.palce{width:80px;float:left;font-size:15px;}
+.copyright{margin-left:14px;color:blue;font-size:15px;}
+.copyright{margin-top:15px;}
+.copyright h6 a {text-decoration:none;}
+.copyright h6 a:hover {text-decoration:underline;}
+
+
+
+
